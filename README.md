@@ -67,4 +67,5 @@ The code in this repository can be used with any compatible liver histopathology
 ---
 
 ## 📌 Note
-This project was completed as part of **academic and research work** using private clinical data and is intended for **educational and research purposes only**.
+This project was completed as part of **academic and research work** using private clinical data and is intended for **educational and research purposes only**.  
+
